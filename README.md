@@ -18,3 +18,5 @@ This web application offers real-time monitoring of water levels in rivers. It r
 * **Backend:** Asp Net c#.
 * **Database:** MongoDB.
 
+**GUI:**
+<img src="Picture3.PNG" alt="JavaPaint Screenshot">
